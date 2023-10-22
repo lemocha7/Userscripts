@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         To SiIva Wiki
+// @name         To SiIvaGunner Wiki
 // @namespace    https://greasyfork.org/users/1201646
 // @version      1.0
 // @description  View a rip on the SiIvaGunner Wiki in one click!
